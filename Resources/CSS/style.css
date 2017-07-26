@@ -16,3 +16,20 @@ h1 {
   color: Aquamarine;
   font-size: 16px;
 }
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+  display: block;
+}
+
+.sub-text {
+  font-size: 21;
+  color: grey;
+}
+
+.footer {
+  text-align: right;
+  color: grey;
+  display: block;
+}
